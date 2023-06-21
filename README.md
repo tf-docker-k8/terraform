@@ -67,3 +67,5 @@ terraform plan
 ```
 terraform apply
 ```
+
+![alt text](architecture.png)

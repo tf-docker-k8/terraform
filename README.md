@@ -68,4 +68,8 @@ terraform plan
 terraform apply
 ```
 
+Below is the architecture of our assignment we are going to implement.
+
+**Assignment:** https://www.joindevops.com/assignments
+
 ![alt text](architecture.png)
